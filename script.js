@@ -20,7 +20,6 @@ for (items of buttons) {
         else {
             scrn.value += btnText;
         }
-
     })
 }
 
